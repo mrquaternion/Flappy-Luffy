@@ -1,4 +1,4 @@
-# 👻 Flappy Ghost Inspiration
+# 👻 Flappy Luffy
 
 A **JavaFX RPG twist** on Flappy Bird:  
 Instead of being the hero, you play as the **enemy**, collecting coins while avoiding or defeating heroes that stand in your way.
