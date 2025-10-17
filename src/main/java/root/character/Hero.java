@@ -21,7 +21,7 @@ public abstract class Hero extends Character {
     }
 
     public static void setRandomRadius(Hero hero){
-        hero.r = 10 + Math.random() * 35;
+        hero.r = 10 + Math.random() * 100;
         hero.setRatio(hero.r / hero.image.getHeight());
     }
 

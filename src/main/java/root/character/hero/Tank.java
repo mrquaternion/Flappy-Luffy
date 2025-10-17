@@ -12,7 +12,7 @@ public class Tank extends Hero {
     public Tank() {
         this.image = new Image("file:src/main/resources/kizaru.png");
         this.imageView = new ImageView(image);
-        this.ratio = 0.9;
+        this.ratio = 1.2;
         this.healthStatus = 100;
         this.imageView.setX(Background.WIDTH);
         this.imageView.setY(Math.random() * (Background.HEIGHT - imageView.getFitHeight()));
